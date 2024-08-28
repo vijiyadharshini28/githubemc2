@@ -1,0 +1,69 @@
+DOCTYPE html
+<head>
+<title>my application</title>
+</head>
+<body>
+     <table>
+     <form>
+        <lable>Name:</lable>
+        <input  type="text" placeholder="enter your name"><br><br>
+        <lable>DOB:</lable>>
+        <input  type="MONTH"><br><br>
+        <label> age:</label>
+        <input type="number"><br><br>
+        <lable>Mail:</lable>
+        <input type="email" required><br><br>
+        <label> gender:</label>
+        <label>male:</label>
+        <input type="radio">
+        <label>female</label>
+        <input type="radio"><br><br>
+        <label>Mobile no:</label>
+        <input Type="tel" readonly maxlength="10"><br><br>
+        <lable>upload</lable>
+        <input type="file">
+        <label>DOB:</label>
+        <input type="time"><br><br>
+        <label>Feedback</label>
+        <textarea></textarea><br><br>
+        <label>password:</label>
+        <input type="submit">
+        <lable>Name:</lable>
+        <input  type="text" placeholder="enter your name"><br><br>
+        <lable>DOB:</lable>>
+        <input  type="MONTH"><br><br>
+        <label> age:</label>
+        <input type="number"><br><br>
+        <lable>Mail:</lable>
+        <input type="email" required><br><br>
+        <label> gender:</label>
+        <label>male:</label>
+        <input type="radio">
+        <label>female</label>
+        <input type="radio"><br><br>
+        <label>Mobile no:</label>
+        <input Type="tel" readonly maxlength="10"><br><br>
+        <lable>upload</lable>
+        <input type="file">
+        <label>DOB:</label>
+        <input type="time"><br><br>
+        <label>Feedback</label>
+        <textarea></textarea><br><br>
+        <label>password:</label>
+        <input type="submit">
+        <button>SUBMIT</button>
+        </form>
+        </table
+
+        
+</body>
+</html>
+
+
+        
+    
+
+
+
+
+
